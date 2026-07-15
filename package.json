@@ -1,0 +1,19 @@
+{
+  "name": "prajwal-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website",
+  "private": true,
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'Static site - no build required'"
+  },
+  "keywords": [
+    "portfolio",
+    "web-developer"
+  ],
+  "author": "Prajwal G N",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
