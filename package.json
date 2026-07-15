@@ -1,0 +1,23 @@
+{
+  "name": "prajwal-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio Website - Prajwal G N",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwalmohan01-commits/Prajwal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwalmohan01-commits/Prajwal/issues"
+  },
+  "homepage": "https://github.com/prajwalmohan01-commits/Prajwal#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
