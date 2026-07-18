@@ -1,240 +1,301 @@
-vCard - Personal Portfolio
+==========================================
+          PRAJWAL G N PORTFOLIO
+==========================================
 
-# sidebar
+# SIDEBAR
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+Name:
+Prajwal G N
 
-Show Contacts
+Title:
+Full Stack Web Developer
 
-Email
-richard@example.com
+Subtitle:
+Web Designer | Software Tester
 
-Phone
-+1 (213) 352-2795
+Show Contact
 
-Birthday
-June 23, 1982
+Email:
+prajwalmohan01@gmail.com
 
-Location
-Sacramento, California, USA
+Phone:
++91 7676759149
 
-# navbar
+Birthday:
+January 04, 2002
+
+Location:
+Bengaluru, Karnataka, India
+
+LinkedIn:
+https://www.linkedin.com/in/prajwal-g-n-b5b704320
+
+Instagram:
+https://www.instagram.com/prajwalmohan_
+
+Portfolio:
+https://prajwal.vercel.app
+
+
+==========================================
+NAVBAR
+==========================================
 
 About
 Resume
-Portfolio
-Blog
+Projects
 Contact
 
-# about
 
-About me
+==========================================
+ABOUT
+==========================================
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+About Me
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I'm a passionate Full Stack Web Developer from Bengaluru, India, with a strong interest in building responsive, user-friendly, and scalable web applications. I enjoy transforming ideas into real-world software solutions using modern web technologies.
 
+I have hands-on experience with HTML, CSS, JavaScript, React.js, Python, Django, Flask, MySQL, Git, and GitHub. I am continuously improving my skills by developing practical projects and learning new technologies.
 
-## service
+As an MCA graduate, I am looking for opportunities where I can contribute my technical knowledge, enhance my problem-solving abilities, and grow as a software developer.
 
-What i'm doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+==========================================
+WHAT I'M DOING
+==========================================
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+• Full Stack Web Development
+Developing modern, responsive, and scalable web applications using frontend and backend technologies.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+• Frontend Development
+Creating attractive and user-friendly interfaces using HTML, CSS, JavaScript, Bootstrap, and React.js.
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+• Backend Development
+Building secure backend applications using Python, Django, Flask, REST APIs, and MySQL.
 
+• Software Testing
+Performing Manual Testing, Functional Testing, Bug Reporting, and Quality Assurance.
 
-## testimonials
 
-Testimonials
+==========================================
+PROFILE HIGHLIGHTS
+==========================================
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Dedicated Developer
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Passionate about creating responsive websites and scalable web applications with clean, efficient, and maintainable code.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Problem Solver
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Enjoy solving real-world challenges through programming, debugging, and logical thinking.
 
+Quick Learner
 
-## clients
+Continuously learning modern technologies including React.js, Django, Flask, AI integration, and cloud deployment.
 
-Clients
 
-alt = client logo
+==========================================
+TOOLS & TECHNOLOGIES
+==========================================
 
+HTML5
+CSS3
+JavaScript
+React.js
+Python
+Django
+Flask
+Bootstrap
+MySQL
+Git
+GitHub
+VS Code
 
 
-# resume
+==========================================
+RESUME
+==========================================
 
-Resume
+EDUCATION
 
-Education
+Master of Computer Applications (MCA)
+2024 – 2025
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Completed Master's degree with specialization in Software Development, Database Management, and Web Technologies.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+------------------------------------------------
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+Bachelor of Computer Applications (BCA)
+2020 – 2023
 
-Experience
+Built a strong foundation in Programming, Data Structures, Database Management, Networking, and Web Development.
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+------------------------------------------------
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Pre-University Course (EBAC)
+2018 – 2020
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Completed Commerce with Computer Science while developing analytical and technical skills.
 
-My skills
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+==========================================
+INTERNSHIP / EXPERIENCE
+==========================================
 
+Web Development Intern
+2025
 
+Worked on developing responsive web applications using HTML, CSS, JavaScript, React.js, Python, Django, Flask, and MySQL.
 
-# portfolio
+------------------------------------------
 
-Portfolio
+Software Testing Intern
 
-All
-Web design
-Applications
-Web development
+Performed Manual Testing, Functional Testing, Bug Reporting, Test Case Preparation, and Application Validation.
 
-Select category
-All
-Web design
-Applications
-Web development
+------------------------------------------
 
-alt = finance
-Finance
-Web development
+Freelance Portfolio Development
 
-alt = orizon
-Orizon
-Web development
+Designed and developed responsive portfolio websites with modern UI/UX principles.
 
-alt = fundo
-Fundo
-Web design
 
-alt = brawlhalla
-Brawlhalla
-Applications
+==========================================
+TECHNICAL SKILLS
+==========================================
 
-alt = dsm.
-DSM.
-Web design
+HTML5                    95%
+CSS3                     90%
+JavaScript               85%
+React.js                 80%
+Python                   90%
+Django                   85%
+Flask                    80%
+Bootstrap                90%
+MySQL                    85%
+Git & GitHub             85%
+Software Testing         80%
 
-alt = metaspark
-MetaSpark
-Web design
 
-alt = summary
-Summary
-Web development
+==========================================
+PROJECTS
+==========================================
 
-alt = task manager
-Task Manager
-Applications
+1. AI-Based Personalized Finance Tracker
+Category:
+Full Stack Web Development
 
-alt = arrival
-Arrival
-Web development
+Technologies:
+Python, Flask, SQLite, Machine Learning
 
+Description:
+An AI-powered finance management system that tracks income, expenses, budgets, and provides personalized financial insights.
 
+------------------------------------------------
 
-# blog
+2. Organ Donation Management System
 
-Blog
+Category:
+Web Development
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+Technologies:
+Python, Django, HTML, CSS, JavaScript, MySQL
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+Description:
+A complete web application that connects hospitals, donors, and patients to simplify organ donation management.
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+------------------------------------------------
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+3. W-Cart E-Commerce Website
 
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Category:
+Frontend Development
 
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+Technologies:
+HTML, CSS, JavaScript
 
+Description:
+A responsive shopping website featuring product listings, categories, shopping cart, and modern user interface.
 
+------------------------------------------------
 
-# contact
+4. Electricity Theft Detection System
 
-Contact
+Category:
+Machine Learning
 
-Contact Form
+Technologies:
+Python, ANN, Agglomerative Clustering
 
-Full name
-Email address
+Description:
+An intelligent system developed to identify electricity theft using machine learning algorithms.
+
+------------------------------------------------
+
+5. Hospital Management System
+
+Category:
+Full Stack Web Development
+
+Technologies:
+Python, Django, Bootstrap
+
+Description:
+A hospital management application for managing doctors, patients, appointments, and medical records.
+
+------------------------------------------------
+
+6. Personal Portfolio Website
+
+Category:
+Frontend Development
+
+Technologies:
+HTML, CSS, JavaScript
+
+Description:
+A responsive and interactive personal portfolio website showcasing projects, skills, education, and achievements.
+
+
+==========================================
+CONTACT
+==========================================
+
+Contact Me
+
+Location:
+Bengaluru, Karnataka, India
+
+Email:
+prajwalmohan01@gmail.com
+
+Phone:
++91 7676759149
+
+LinkedIn:
+https://www.linkedin.com/in/prajwalmohan
+
+Portfolio:
+https://prajwal.vercel.app
+
+
+==========================================
+CONTACT FORM
+==========================================
+
+Full Name
+
+Email Address
+
 Your Message
 
-Send Message
+[ Send Message ]
+
+
+==========================================
+THANK YOU
+==========================================
+
+Thank you for visiting my portfolio.
+
+Let's build something amazing together!
